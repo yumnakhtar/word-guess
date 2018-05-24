@@ -24,6 +24,7 @@ var Letter = function(character, guessed){
 
 
 
+module.exports = Letter;
 
 
 
